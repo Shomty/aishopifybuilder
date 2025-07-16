@@ -1,0 +1,2 @@
+# aishopifybuilder
+shopify-ai-builder
